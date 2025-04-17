@@ -10,19 +10,14 @@ Este sistema é voltado uma academia pequena, para realizar ;
 - a astruturação de listas de treino para os alunos acessaram.
 ## Requisitos
 ### Funcionais
-- Entra com CPF, Nome completo, T
-
+- Entra com CPF, Nome completo, Telefone.
+- Nomes do pensonaltas com horário de trabalho.
+- Os fisicos dos alunos para os pensonaltas.
+- Colocar os PDF para Whatzapp.
 ### Não Funcionais
 - segurança: uso de CPF como senha ou pensonal 
 - modo escuro.
 - funcionar segundo plano
 - personalizar o app
 ## Telas
-	Academia abre de segunda a sábado as 8:00 a ter 10:00 noite.
-	Nomes dos pensonaltas 
-1.	Ana trabalha de manhã as 8:00 a ter 13:00
-2.	Junho trabalha de tarde as 13:00 a ter 18:00
-3.	Flavio trabalha de noite das 18:00 a ter 22:00
-4.	Marcos trabalho de noite das 18:00 a ter 22:00
-	Informa ser um pagamento está salvo e dizer ser esta ativo ou não
-	Atendimento funciona das 8:00 a ter 18:00, depois são os pensonal
+- Menu 
