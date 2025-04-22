@@ -20,4 +20,13 @@ Este sistema é voltado uma academia pequena, para realizar ;
 - funcionar segundo plano
 - personalizar o app
 ## Telas
-- Menu 
+- Menu inicial de login:
+O login sera feito com CPF ou e-mail com senhar pelo número do telefone.
+- 2º tela:
+Confirmar código enviado pelo e-mail ou telefone.
+- 3º tela:
+Tela home com os trenamentos disponivel.
+- 4º tela:
+Especificações de cada área do trenamentos escolhida pelo usuário.
+- 5º tele:
+Perfil do usuário com notificaões, detalhes do trenamento, central de ajuda, longin e seeguran e Secretaria
